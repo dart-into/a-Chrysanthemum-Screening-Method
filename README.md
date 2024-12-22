@@ -1,6 +1,5 @@
 # a-Chrysanthemum-Screening-Method
-Code for the paper
-![./Net](https://github.com/dart-into/MMQA/blob/main/framework.png)
+
 
 ## Dataset
 | Dataset   | Links                                                       |
